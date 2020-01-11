@@ -21,7 +21,9 @@ q = reina
 k = rey
 
 Para separar las filas dentro de la cadena se emplea el carácter "/", existen exactamente 8 filas en la cadena.
-Para indicar espacios vacíos en la fila se colocan los números del 1 al 8. Por ejemplo la fila "4p3" esta compuesta por 4 celdas vacías, un peón y finalmente tres celdas vacías El numero de celdas por fila debe ser siempre 8.
+Para indicar espacios vacíos en la fila se colocan los números del 1 al 8.
+Por ejemplo la fila "4p3" esta compuesta por 4 celdas vacías, un peón y finalmente tres celdas vacías.
+El numero de celdas por fila debe ser siempre 8.
 
 ##### Así por ejemplo la posición inicial de ajedrez se representa por:
 ##### "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR"
