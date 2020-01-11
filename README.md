@@ -26,7 +26,9 @@ Para indicar espacios vacíos en la fila se colocan los números del 1 al 8. Por
 ##### Así por ejemplo la posición inicial de ajedrez se representa por:
 ##### "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR"
 
-###### Implementar la función: drawChessBoard( initPosition )
+#### Implementar la función: drawChessBoard( initPosition )
+
+### NOTAS:
 
 * Usa cualquier imagen para las piezas así como la librería gráfica que prefieras, pero debes cargar y mostrar imágenes BMP, PNG o JPG en tu programa.
 * No se considerará válidas soluciones que sólo usen la consola de texto.
