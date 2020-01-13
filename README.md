@@ -69,7 +69,7 @@ Source Code By:	 Alejandro E. Almarza Martín
 
 4-	Have all images in the same Folder as in step (3).
 
-5- Look for the .exe file and run it.
+5-  Look for the .exe file and run it.
 
 
 ### B)	For Developing (Windows 7, VS C++ 2010):
@@ -84,7 +84,7 @@ Source Code By:	 Alejandro E. Almarza Martín
 
 5-	Make sure you add to the solution the main.cpp Script, which is in the 'source' folder.
 
-6- Happy Coding.
+6-  Happy Coding.
 
 *******************************************************************************
 
