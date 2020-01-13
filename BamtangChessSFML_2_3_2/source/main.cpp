@@ -1301,6 +1301,10 @@ void TranslateValidateCharsAndDrawChessBoard ( const string &initPosition, sf::S
 					// 2- Initialize the Sprite, Set Its POSITION & Draw the Sprite adding it to the Array for Printing.
 					//
 					SetCharacterOnBoard ( myChar, alreadyDrawn_k, _myArrayOfSpriteForDrawing, _myArrayOfSpriteForDrawingTrueOrFalseVisible, myColumn, myRow );
+					//
+					// Update the 'alreadyDrawn'  variable:
+					//
+					alreadyDrawn_k++;
 
 				}//End if ( ValidateTheDrawingOf ( (...))
 				else
@@ -1516,6 +1520,10 @@ void TranslateValidateCharsAndDrawChessBoard ( const string &initPosition, sf::S
 					// 2- Initialize the Sprite, Set Its POSITION & Draw the Sprite adding it to the Array for Printing.
 					//
 					SetCharacterOnBoard ( myChar, alreadyDrawn_K, _myArrayOfSpriteForDrawing, _myArrayOfSpriteForDrawingTrueOrFalseVisible, myColumn, myRow );
+					//
+					// Update the 'alreadyDrawn'  variable:
+					//
+					alreadyDrawn_K++;
 
 				}//End if ( ValidateTheDrawingOf ( (...))
 				else
