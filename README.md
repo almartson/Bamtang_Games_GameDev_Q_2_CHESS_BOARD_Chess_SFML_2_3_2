@@ -61,8 +61,10 @@ Source Code By:	 Alejandro E. Almarza Martín
    
 2-	Copy the '...\bin''s Folder content.
 
-3-	Look for a folder called 'Release'. Check if it has some SFML files, such as: sfml-graphics-2.dll, sfml-system-2.dll, sfml-window-2.dll, etc. In case those are missing:
-     
+3-	Look for a folder called 'Release'. Check if it has some SFML files, such as: sfml-graphics-2.dll, sfml-system-2.dll, sfml-window-2.dll, etc. 
+
+     In case those are missing:
+
      Paste all the files copied in step (2) into that folder.
 
 4-	Have all images in the same Folder as in step (3).
@@ -78,11 +80,11 @@ Source Code By:	 Alejandro E. Almarza Martín
 
 3-	Configure Visual Studio C++ 2010 to Develop C++ Games using SFML >= 2.0 (Read: (Steps in:  https://www.sfml-dev.org/tutorials/2.3/start-vc.php ) )
 
-2-	Copy this Script Contents inside the Project.
+4-	Decide: [Dynamic Linked Libraries (DLL) vs. Static/Shared Libraries], and set the IDE Configuration. (Steps in:  https://www.sfml-dev.org/tutorials/2.3/start-vc.php )
 
-3-	Decide: [Dynamic Linked Libraries (DLL) vs. Static/Shared Libraries], and set the IDE Configuration. (Steps in:  https://www.sfml-dev.org/tutorials/2.3/start-vc.php )
+5-	Make sure you add to the solution the main.cpp Script, which is in the 'source' folder.
 
-4-	Happy Coding.
+6- Happy Coding.
 
 *******************************************************************************
 
