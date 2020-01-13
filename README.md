@@ -37,7 +37,15 @@ El numero de celdas por fila debe ser siempre 8.
 * Verifica que las imágenes estén ubicadas correctamente para que no hayan problemas al ejecutar tu proyecto.
 
 <p align="center">
-   ![Alt text](ReadmeImgs/ChessBoard_1_1.png?raw=true "Chess Board with Input: 7q/2rP4/2Pn4/P2RP3/p2n4/b1K5/2pPrQ2/3k2N1")
+   
+   <img src="ReadmeImgs/ChessBoard_1_1.png?raw=true">
+   
+   <font size="2">
+      <p align="center">
+         <figcaption"> Chess Board with Input: 7q/2rP4/2Pn4/P2RP3/p2n4/b1K5/2pPrQ2/3k2N1
+         </figcaption>
+      </p>
+   </font>
 </p>
 
 *******************************************************************************
