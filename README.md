@@ -61,9 +61,13 @@ Source Code By:	 Alejandro E. Almarza Martín
    
 2-	Copy the '...\bin''s Folder content.
 
-3-	Paste it in the same Folder as this Code's Executable (.exe).
+3-	Look for a folder called 'Release'. Check if it has some SFML files, such as: sfml-graphics-2.dll, sfml-system-2.dll, sfml-window-2.dll, etc. In case those are missing:
+
+     Paste all files copied in step (2) in that folder.
 
 4-	Have all images in the same Folder as in step (3).
+
+5- Look for the .exe file and run it.
 
 
 ### B)	For Developing (Windows 7, VS C++ 2010):
@@ -81,6 +85,5 @@ Source Code By:	 Alejandro E. Almarza Martín
 4-	Happy Coding.
 
 *******************************************************************************
-Source Code By:	 Alejandro E. Almarza Martín
-*******************************************************************************
+
 ### (5 PUNTOS)
