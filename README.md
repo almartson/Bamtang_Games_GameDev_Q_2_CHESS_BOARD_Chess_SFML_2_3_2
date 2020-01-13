@@ -36,6 +36,8 @@ El numero de celdas por fila debe ser siempre 8.
 * No se considerará válidas soluciones que sólo usen la consola de texto.
 * Verifica que las imágenes estén ubicadas correctamente para que no hayan problemas al ejecutar tu proyecto.
 
+![Alt text](ReadmeImgs/ChessBoard_1_1.png?raw=true "Chess Board with Input: 7q/2rP4/2Pn4/P2RP3/p2n4/b1K5/2pPrQ2/3k2N1")
+
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
 *******************************************************************************
