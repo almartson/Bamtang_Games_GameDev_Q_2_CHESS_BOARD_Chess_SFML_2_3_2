@@ -1,5 +1,5 @@
 # Bamtang_Games_GameDev_Q_2_CHESS_BOARD_Chess_SFML_2_3_2
-Simple C++ algorithm that draws a chess board with the position of the pieces passed as function parameters - My Answer to the Bamtang Games' Game Programmer Exam (originally published in 2018):
+Simple C++ algorithm that draws a chess board with the position of the pieces passed as function parameters - [Game Programmer Exam (originally published in 2018)](README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf):
 
 ## Question number 2.
 ## 2. CHESS BOARD
@@ -23,7 +23,7 @@ k = rey
 Para separar las filas dentro de la cadena se emplea el carácter "/", existen exactamente 8 filas en la cadena.
 Para indicar espacios vacíos en la fila se colocan los números del 1 al 8.
 Por ejemplo la fila "4p3" esta compuesta por 4 celdas vacías, un peón y finalmente tres celdas vacías.
-El numero de celdas por fila debe ser siempre 8.
+El número de celdas por fila debe ser siempre 8.
 
 ##### Así por ejemplo la posición inicial de ajedrez se representa por:
 ##### "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR"
@@ -33,7 +33,7 @@ El numero de celdas por fila debe ser siempre 8.
 ### NOTAS:
 
 * Usa cualquier imagen para las piezas así como la librería gráfica que prefieras, pero debes cargar y mostrar imágenes BMP, PNG o JPG en tu programa.
-* No se considerará válidas soluciones que sólo usen la consola de texto.
+* No se considerarán válidas las soluciones que solo usen la consola de texto.
 * Verifica que las imágenes estén ubicadas correctamente para que no hayan problemas al ejecutar tu proyecto.
 
 <p align="center">
@@ -89,6 +89,12 @@ Source Code By:	 Alejandro E. Almarza Martín
 *******************************************************************************
 
 ### (5 PUNTOS)
+
+*******************************************************************************
+
+#### Note:
+
+#### 1- [Bamtang Games' current Game Programmer Exam, as reference](https://www.bamtang.com/careers/game-programmer).
 
 *******************************************************************************
 
