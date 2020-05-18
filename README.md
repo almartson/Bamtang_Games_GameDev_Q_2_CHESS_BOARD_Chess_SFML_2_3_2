@@ -25,7 +25,7 @@ Para indicar espacios vacíos en la fila se colocan los números del 1 al 8.
 Por ejemplo la fila "4p3" esta compuesta por 4 celdas vacías, un peón y finalmente tres celdas vacías.
 El número de celdas por fila debe ser siempre 8.
 
-##### Así por ejemplo la posición inicial de ajedrez se representa por:
+##### Así por ejemplo la posición inicial del tablero de ajedrez se representa así:
 ##### "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR"
 
 #### Implementar la función: drawChessBoard( initPosition )
@@ -47,6 +47,10 @@ El número de celdas por fila debe ser siempre 8.
       </p>
    </font>
 </p>
+
+*******************************************************************************
+
+### (5 PUNTOS)
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
@@ -85,10 +89,6 @@ Source Code By:	 Alejandro E. Almarza Martín
 5-	Make sure you add to the solution the main.cpp Script, which is in the 'source' folder.
 
 6-  Happy Coding.
-
-*******************************************************************************
-
-### (5 PUNTOS)
 
 *******************************************************************************
 
