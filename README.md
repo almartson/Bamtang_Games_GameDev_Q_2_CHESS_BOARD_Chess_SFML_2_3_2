@@ -1,5 +1,5 @@
 # Bamtang_Games_GameDev_Q_2_CHESS_BOARD_Chess_SFML_2_3_2
-Simple C++ algorithm that draws a chess board with the position of the pieces passed as function parameters - [Game Programmer Exam (originally published in 2018)](README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf):
+Simple C++ algorithm that draws a chess board with the position of the pieces passed as function parameters - My Answer to the Bamtang Games' [Game Programmer Exam (originally published in 2018)](README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf):
 
 ## Question number 2.
 ## 2. CHESS BOARD
