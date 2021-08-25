@@ -96,7 +96,7 @@ Source Code By:	 Alejandro E. Almarza Martín
 
 #### 1- [Download: Game Programmer Exam Questions (originally published in 2018) in PDF format](README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf).
 
-#### 2- [Bamtang Games' current Game Programmer Exam, as reference](https://www.bamtang.com/jobs/game-programmer).
+#### 2- [Bamtang Games' current Game Programmer Exam, as reference (it might have changed)](https://www.bamtang.com/jobs/game-programmer).
 
 *******************************************************************************
 
